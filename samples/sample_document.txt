@@ -1,0 +1,19 @@
+Acme Corp Employee Handbook
+
+Vacation Policy
+Full-time employees receive 20 days of paid vacation per year, accrued monthly. New employees must complete a 90 day probation period before they are eligible to book vacation. Unused vacation days roll over up to a maximum of 5 days into the next calendar year.
+
+Onboarding Process
+Onboarding takes two weeks and includes training on internal tools, security policies, and team introductions. Every new hire is assigned a mentor for their first 30 days. IT equipment is provisioned before the start date whenever possible.
+
+Remote Work Policy
+Employees may work remotely up to 3 days per week with manager approval. Fully remote arrangements require VP-level sign-off and are reviewed every 6 months. All remote workers must be reachable during core hours, 10 AM to 4 PM local time.
+
+Interview Process
+Candidates go through a phone screen, a technical interview, and a final panel interview with the hiring manager. Interviews can be scheduled directly with the recruiting coordinator by providing a name, email address, preferred date, and preferred time.
+
+Expense Reimbursement
+Employees can submit expense reports within 60 days of purchase. Reimbursable expenses include travel, client meals, and approved software subscriptions. Reports are processed within 10 business days of submission.
+
+Code of Conduct
+All employees are expected to act with integrity, respect colleagues, and report any conflicts of interest to HR. Violations of the code of conduct may result in disciplinary action up to and including termination.
